@@ -1,0 +1,17 @@
+{
+  "emulators": {
+    "auth": {
+      "port": 3500
+    },
+    "firestore": {
+      "port": 3600
+    },
+    "database": {
+      "port": 3700
+    },
+    "ui": {
+      "enabled": false
+    },
+    "singleProjectMode": true
+  }
+}
